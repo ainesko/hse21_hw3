@@ -50,8 +50,6 @@
 ![image](https://user-images.githubusercontent.com/93263861/146334865-f45b270a-7960-46c5-ac25-468c48e9b117.png)
 
 
-![image](https://user-images.githubusercontent.com/93263861/146363706-903cb537-e20a-4d24-988f-e7ba47ca3a08.png)
-
 # Графики из анализа DESeq2
 
 1) MA-plot, показывающий Log2FC для генов:
