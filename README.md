@@ -7,7 +7,7 @@
 
 Часть 1. https://colab.research.google.com/drive/1uUmuccZWHds2y0AQM_iK6ydsE-kfpfJk?usp=sharing
 
-Часть 2. 
+Часть 2. https://colab.research.google.com/drive/13HGnSLTKbYyil6Jwvac8oKqzX1lPWwVt?usp=sharing
 
 # Скриншоты и статистика из файлов multiQC
 
