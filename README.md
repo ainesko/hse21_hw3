@@ -39,4 +39,15 @@
 
 ![image](https://user-images.githubusercontent.com/93263861/146333975-25b282f5-bf23-4df3-b558-e734c9357087.png)
 
+# Подсчёт данных для таблиц:
+
+![image](https://user-images.githubusercontent.com/93263861/146334561-53bbfa2d-964d-4e41-bed9-05f116cb5888.png)
+
+![image](https://user-images.githubusercontent.com/93263861/146334736-3b422bea-091d-4456-97db-82f6394b2f66.png)
+
+![image](https://user-images.githubusercontent.com/93263861/146334775-b2bdd501-035b-48d6-94a0-6516837a3e07.png)
+
+![image](https://user-images.githubusercontent.com/93263861/146334865-f45b270a-7960-46c5-ac25-468c48e9b117.png)
+
+
 
