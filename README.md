@@ -50,4 +50,38 @@
 ![image](https://user-images.githubusercontent.com/93263861/146334865-f45b270a-7960-46c5-ac25-468c48e9b117.png)
 
 
+![image](https://user-images.githubusercontent.com/93263861/146363706-903cb537-e20a-4d24-988f-e7ba47ca3a08.png)
+
+# Графики из анализа DESeq2
+
+1) MA-plot, показывающий Log2FC для генов:
+
+![image](https://user-images.githubusercontent.com/93263861/146364782-5c0156d4-cf36-446f-b0f3-7b9c4b2866c2.png)
+
+2) Тепловая карта показывает, что все контрольные образцы похожи между собой и все перепрограмированные образцы похожи между собой, а образцы контроля отличаются от образцов эксперимента.
+
+![image](https://user-images.githubusercontent.com/93263861/146363579-2bd81b06-08c2-487f-9848-f7fa13e6f4e3.png)
+
+3) График разниц экспрессий для 20 наиболее дифференциально экспрессированных генов.
+ Так, для первой строчки, в контроле ген сильно экспрессировался (красный цвет), а в эксперименте его экспрессия упала (оранжевый цвет). Значения обозначены цветами:
+
+![image](https://user-images.githubusercontent.com/93263861/146363748-4bcbd84b-abff-4d18-8fd1-10f0e66ce856.png)
+
+4)  Графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах для генов, которые наиболее значимо поменяли свою экспрессию:
+
+
+![image](https://user-images.githubusercontent.com/93263861/146364232-e1de1c08-d486-4522-8ead-b847e45865be.png)
+
+
+![image](https://user-images.githubusercontent.com/93263861/146364253-8b74efc6-f040-436d-9227-0a7786f34513.png)
+
+
+![image](https://user-images.githubusercontent.com/93263861/146364296-d966735b-7a87-4af4-bf63-4c0af7990a51.png)
+
+
+![image](https://user-images.githubusercontent.com/93263861/146364339-5e40ecd0-1275-48c6-b435-4dddcf6e7258.png)
+
+
+ ![image](https://user-images.githubusercontent.com/93263861/146364369-ddb9baf6-032f-49fb-9ae2-00da72d31402.png)
+
 
